@@ -48,3 +48,11 @@ D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.P
 D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
 D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
 D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\EnumTranslateToList.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+D:\Projects\GitHub\EnumTranslateToList\EnumTranslateToList\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
